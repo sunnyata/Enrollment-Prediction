@@ -1,7 +1,6 @@
 ```{r, global_options, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 rm(list = ls())
-setwd("G:/OMSA/Practicum")
 suppressMessages(library(car))
 suppressMessages(library(dplyr))
 suppressMessages(library(tidyr))
