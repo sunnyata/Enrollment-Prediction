@@ -1,4 +1,4 @@
-# International Student Enrollment a Public US University: First Source Analysis and Future Enrollment Predictive Models
+# International Student Enrollment at a Public US University: First Source Analysis and Future Enrollment Predictive Models
 
 ## Abstract
 Using data analysis, research and predictive classification models, this project aims to examine lead sources, identify influential factors for student enrollment among applicants, and determine the importance of third-party name purchases for higher education. 
